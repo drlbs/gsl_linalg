@@ -3,7 +3,7 @@
 
 /* Compile on cobra with
  *
- * gcc inverse.c -lgsl -L/usr/lib64/atlas -latlas -lcblas
+ * gcc inverse.c -lgsl
  *
  */
 

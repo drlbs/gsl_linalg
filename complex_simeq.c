@@ -20,11 +20,11 @@
  *
  * compile with...
  *
- * gcc complex_simeq.c -lgsl -L/usr/lib64/atlas -latlas -lcblas
+ * gcc complex_simeq.c -lgsl 
  *
  * -or-
  *
- * g++ complex_simeq.c -lgsl -L/usr/lib64/atlas -latlas -lcblas
+ * g++ complex_simeq.c -lgsl 
  *
  */ 
 

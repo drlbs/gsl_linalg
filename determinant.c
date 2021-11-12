@@ -3,7 +3,7 @@
 
 /* Compile on cobra with
  *
- * gcc determinant.c -lgsl -L/usr/lib64/atlas -latlas -lcblas
+ * gcc determinant.c -lgsl 
  *
  */
 
